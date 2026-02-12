@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Галерея Искусства</string>
+
+    <string name="winter_morning_title">Зимнее утро</string>
+    <string name="hoarfrost_title">Иней</string>
+    <string name="march_snow_title">Мартовский снег</string>
+    <string name="february_azure_title">Февральская лазурь</string>
+    <string name="white_winter_title">Белая зима</string>
+
+    <string name="grabar_name">Игорь Грабарь</string>
+
+    <string name="image_desc_format">Картина: %1$s, %2$s</string>
+
+    <string name="previous">Предыдущий</string>
+    <string name="next">Следующий</string>
+
+    <string name="prev_desc">Перейти к предыдущему произведению</string>
+    <string name="next_desc">Перейти к следующему произведению</string>
+</resources>
