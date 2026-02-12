@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">moblab2</string>
+    <string name="app_name">Art Gallery App</string>
+
+    <string name="winter_morning_title">Winter Morning</string>
+    <string name="hoarfrost_title">Hoarfrost</string>
+    <string name="march_snow_title">March Snow</string>
+    <string name="february_azure_title">February Azure</string>
+    <string name="white_winter_title">White Winter</string>
+
+    <string name="grabar_name">Igor Grabar</string>
+
+    <string name="image_desc_format">Painting: %1$s by %2$s</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+
+    <string name="prev_desc">Go to previous artwork</string>
+    <string name="next_desc">Go to next artwork</string>
 </resources>
